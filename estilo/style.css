@@ -61,6 +61,5 @@ section#redes-sociais img:hover { /* borda nas imagens*/
     border: 2px solid rgba(245, 222, 179, 0.733);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px black;
-    transition: transform 1.5; /* movimento das imagen alterado
+    transition: transform 1.5; /* movimento das imagen alterado*/
 }
-

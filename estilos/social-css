@@ -1,0 +1,33 @@
+@charset "UTF 8"; 
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar { /* esconde a barra de rolagem*/
+    width: 0px;
+    height: 0px;
+}
+
+img {
+    width: 100vw;
+   
+
+}
+a { /* estilo do link*/
+    display: block; /* o nome acesso ficou embaixo da imagem*/
+    background-color: darkred;
+    color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+    
+
+}
+
+a:hover {
+    background-color: red;
+}
